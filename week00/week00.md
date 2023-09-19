@@ -16,8 +16,7 @@ Student | 150+ of you from A to Z
 
 ## 🤼 Activity
 - Lecture (Week01 - Week12)
-	- Tue 2-4 @ 303-102
-	- Wed 1-2 @ 423-342
+	- A total of 3 hrs of lecture per week
 
 - Lab (Week02 - Week11)
 	- A 1.5-hr lab session
@@ -30,12 +29,12 @@ Student | 150+ of you from A to Z
 
 ## 📊 Assessment
 - Internal (60%)
-	- A1 (P1): due on 2022-08-05 Fri 08:00 (2%)
-	- A1 (P2): due on 2022-08-19 Fri 08:00 (8%)
-	- A2 (P1): due on 2022-09-30 Fri 08:00 (5%)
-	- A2 (P2): due on 2022-10-07 Fri 08:00 (15%)
+	- A1 (P1): due on Week 03 Fri 18:00 (2%)
+	- A1 (P2): due on Week 05 Fri 18:00 (8%)
+	- A2 (P1): due on Week 09 Fri 18:00 (5%)
+	- A2 (P2): due on Week 10 Fri 18:00 (15%)
 	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
-	- Test: held on 2022-09-12 Mon 18:30-20:00 (20%)
+	- Test: held on Week 07 Mon 18:30-20:00 (20%)
 
 - Exam (40%)
 	- A 3-hr examination
@@ -71,7 +70,7 @@ Week | Lecture | Lab
 
 - Practice: [Previous exams](https://www.library.auckland.ac.nz/search/INFOSYS%20222#uoa-lib-ms-exams)
 
-- Software: [Diagrams.net](https://www.diagrams.net/), [SQLite](http://sqlite.org/) and [Atom](https://atom.io/)
+- Software: [Diagrams.net](https://www.diagrams.net/), [SQLite](http://sqlite.org/) and [VS Code](https://code.visualstudio.com/)
 
 
 
@@ -80,9 +79,9 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter, marking issue and lab material to the coordinator; lecture material and assessment question to the lecturer
 
-- Office Hour: By appointment only (Wed 2-3) @ 260-474 or online
+- Office Hour: By appointment only
 
-- Class Rep: [Alex Lou](mailto:clou785@aucklanduni.ac.nz) and [Astrid Liu](mailto:jliu276@aucklanduni.ac.nz)
+- Class Rep: TBA
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
